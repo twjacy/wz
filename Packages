@@ -1,0 +1,14 @@
+Package: com.aaa.wzaaa
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.aaa.wzaaa_0.1-1_iphoneos-arm.deb
+Size: 8661216
+MD5sum: 07485134ef2ea7c290b08d17867753d7
+SHA1: 46451dee9436006530161f650a87a08cef907efe
+SHA256: d112e6f8687deffbf0621976e5cf88e5e1a662dca57581ab8e42ca19f7afc759
+Section: Tweaks
+Priority: optional
+Author: ooo
+Name: wzaaa
+
