@@ -3,12 +3,14 @@ Version: 0.1-1
 Architecture: iphoneos-arm
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.aaa.wzaaa_0.1-1_iphoneos-arm.deb
-Size: 8661216
-MD5sum: 07485134ef2ea7c290b08d17867753d7
-SHA1: 46451dee9436006530161f650a87a08cef907efe
-SHA256: d112e6f8687deffbf0621976e5cf88e5e1a662dca57581ab8e42ca19f7afc759
+Size: 3549756
+MD5sum: ea651293fcb333f2f909fc23e153dc15
+SHA1: f608008048bbd4d33eef2c4ee58def098fbc3abb
+SHA256: be0d77f3a7225f64149193218007c47c5124e656e6c78e7ac92756003fef2922
 Section: Tweaks
 Priority: optional
+Description: 王者一键换装&语音换装
 Author: ooo
-Name: wzaaa
+Icon: https://raw.githubusercontent.com/twjacy/wz/main/CydiaIcon.png
+Name: 王者一键换装
 
